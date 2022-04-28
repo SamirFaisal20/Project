@@ -1,0 +1,11 @@
+.background{
+    border: 2px solid cadetblue;
+    background-color: rgb(22, 15, 50);
+    padding: 20px;
+}    
+#header{
+    text-align: center;
+    color: white;
+    font-size: 30px;
+    font-family: 'Times New Roman';
+}   

@@ -1,0 +1,17 @@
+.navigation{
+    background-color: #f44336;
+    color: white;
+    padding: 14px 25px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    
+}
+.navibox{
+    position: sticky;
+    top: 0;
+    border: none;
+    text-align: center;
+    background-color: rgb(39, 121, 121);
+    padding: 8px;
+}

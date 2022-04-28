@@ -1,0 +1,57 @@
+#loginheading{
+    border: 2px solid cadetblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(39, 121, 121);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: -22px;
+}
+.box{
+    border: 2px solid cadetblue;
+    background-color: aquamarine;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align-last: center;
+}
+.submit{
+    text-align: center;
+}
+#label{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.button{
+    color: white;
+    padding: 8px 15px;
+    border: 2px solid rgb(255, 245, 245);
+    margin-top: 8px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttonsubmit{
+    background-color: rgb(53, 171, 53);
+    width: 180px;  
+}
+.alert{
+    background-color: #25CCF7;
+    padding: 12px;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+    font-size: 20px;
+}
+.success{
+    background-color: #25CCF7;
+    padding: 12px;
+    text-align: center;
+    color: rgb(38, 145, 81);
+    font-weight: 700;
+    font-size: 20px;
+}

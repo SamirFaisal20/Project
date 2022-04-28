@@ -1,0 +1,94 @@
+#profileheading{
+    border: 2px solid cadetblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: rgb(39, 121, 121);
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-top: -22px;
+}
+#welcome{
+    border: 2px solid cadetblue;
+    font-size: 30px;
+    font-family: 'Times New Roman', Times, serif;
+    background-color: cadetblue;
+    padding: 10px;
+    text-align: center;
+    color: white;
+    margin-left: 10px;
+}
+.box{
+    border: 2px solid cadetblue;
+    background-color: aquamarine;
+    padding: 20px;
+    margin-left: 400px;
+    margin-right: 400px;
+}
+.center{
+    margin-left: auto;
+    margin-right: auto;
+    text-align-last: center;
+}
+#label{
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.submit{
+    text-align: center;
+}
+.cookie{
+    background-color: #67b6ca;
+    padding: 12px;
+    text-align: center;
+    color: rgb(25, 143, 70);
+    font-weight: 700;
+    font-size: 20px;
+    font-size: 25px;
+}
+.button{
+    padding: 8px 15px;
+    border: 2px solid rgb(255, 245, 245);
+    margin-top: 8px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.buttonlogin{
+    color: rgb(236, 243, 236);
+    background-color: green;
+    width: 80px;
+}
+.buttonlogout{
+    color: rgb(236, 243, 236);
+    background-color: rgb(207, 57, 40);
+    text-decoration: none;
+}
+.buttondelete{
+    color: rgb(236, 243, 236);
+    background-color: rgb(47, 29, 182);
+    width: 80px;
+}
+.buttonorder{
+    color: rgb(236, 243, 236);
+    background-color: rgb(101, 74, 200);
+    float: right;
+    padding: 9px;
+    width: 90px;
+
+}
+.alert{
+    background-color: #25CCF7;
+    padding: 12px;
+    text-align: center;
+    color: red;
+    font-weight: 700;
+    font-size: 20px;
+}
+.sucess{
+    background-color: #25CCF7;
+    padding: 12px;
+    text-align: center;
+    color: rgb(32, 170, 76);
+    font-weight: 700;
+    font-size: 20px;
+}
